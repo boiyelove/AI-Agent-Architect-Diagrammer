@@ -1,0 +1,11 @@
+{
+  "tenantId": "tenant-a",
+  "correlationId": "rank-35-deny-001",
+  "target": "development",
+  "requestedAction": "plan_ai_agent_architect_diagrammer",
+  "credentialMode": "workload_identity",
+  "publicNetworkAccess": true,
+  "evidenceFresh": true,
+  "approved": false,
+  "containsSecret": false
+}

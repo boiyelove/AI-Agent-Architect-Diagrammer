@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1.0",
+  "project": "AI-Agent-Architect-Diagrammer",
+  "rank": 35,
+  "action": "plan_ai_agent_architect_diagrammer",
+  "allowedCredentialModes": [
+    "managed_identity",
+    "workload_identity"
+  ],
+  "protectedTargets": [
+    "production",
+    "break-glass"
+  ],
+  "allowedTenantIds": [
+    "tenant-a"
+  ]
+}
